@@ -1,1 +1,1 @@
-texto script1
+print(2 + 2)
